@@ -18,6 +18,7 @@ The system replaces paper-token uncertainty with:
   2. Emergency walk-in insertion
   3. Doctor unavailability + alternative doctor transfer
 
+
 The uploaded project presentation describes the central twist as live re-forecasting when emergency/priority patients change the queue. It also describes token + ETA, hospital/OPD dashboard, queue engine, prediction layer, and SMS/basic-phone accessibility.
 
 ## Demo
